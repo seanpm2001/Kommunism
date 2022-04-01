@@ -1,15 +1,15 @@
 
 ***
 
-# <projectName>
+# Kommunism
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/)
 
 # By:
 
 <!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
 
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
+## [Seanpm2001](https://github.com/seanpm2001/), [Kommunism-dev](https://github.com/Kommunism-dev/) Et; Al.
 
 
 ### Top
@@ -22,11 +22,11 @@
 
 **Sorted by:** `A-Z`
 
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
+[Sorting options unavailable](https://github.com/Kommunism-dev/Kommunism)
 
 ( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/Kommunism-dev/Kommunism/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
 
@@ -38,13 +38,13 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#Kommunism)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#Kommunism)
 
 [02.0 - About](#About)
 
@@ -100,20 +100,40 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 ***
 
-# <repoName>
-<repo_description>
+# Kommunism
+A joke program environment for communist themed programming jokes and humor.
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This project is a repository for Communist and anti-Communist humor, in the programmer style.
+
+### Key centers
+
+#### Codeviet union
+
+[Union](/Codeviet_Union/)
+
+> [UNION.h](/Codeviet_Union/UNION.h)
+
+#### K.D.E
+
+[K.D.E](/K.D.E)
+
+This section is still being planned out. It is not meant to be confused with KDE (K Desktop Environment) or cause negative attention towards it, it is simple tongue and cheek humor. I personally really love KDE, and prefer it over GNOME, but haven't been able to make the switch yet due to some issues on my end.
+
+#### Stalin
+
+[Stalin](/Stalin/)
+
+A copy of the Stalin Scheme implementation. `Stalin brutally optimizes`
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/Kommunism-dev/Kommunism/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -121,11 +141,11 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ## History
 
-Write about this projects history here.
+This project has a short history so far.
 
 ### Pre-history
 
-No pre-history to show for this project.
+This project started out at a currently undetermined date in either late 2021 or early 2022, but wasn't made into a Git repository until 2022 March 29th, when it was privately published to GitHub, and began development. It is planned to be made public on 2022 April 8th.
 
 ### Alpha history
 
@@ -203,7 +223,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 31 commits (As of 2022, Thursday, March 31st at 11:04 pm PST)
 
 > * 2. No other contributers.
 
@@ -273,9 +293,11 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
+[Project language file A (C)](PROJECT_LANG_1.c)
 
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
+[Project language file B (Scheme)](PROJECT_LANG_2.scm)
+
+[Join the discussion on GitHub](https://github.com/Kommunism-dev/Kommunism/discussions)
 
 No other resources at the moment.
 
@@ -291,11 +313,11 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
+**File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
+**File version:** `1 (2022, Thursday, March 31st at 11:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,407`
+**Line count (including blank lines and compiler line):** `0,445`
 
 ***
 
@@ -379,11 +401,27 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2022, Thursday, March 31st at 11:02 pm PST)
 
 > Changes:
 
-> * Coming soon
+> * Updated main links
+
+> * Updated the title section
+
+> * Updated the about section
+
+> * Added links and info to the current 3 parts of the project
+
+> * Updated the history section
+
+> * Updated the resources section
+
+> * Updated the contributing section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
